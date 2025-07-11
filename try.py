@@ -3,6 +3,4 @@ if a == "kathmandu":
     print('True')
 else:
     print('False')
-
-
-print("Thanks for playing this game ")
+# this is new feature
